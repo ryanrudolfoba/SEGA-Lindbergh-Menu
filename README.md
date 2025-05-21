@@ -2,7 +2,7 @@
 
 A simnple script to launch SEGA Lindbergh games!
 
-### Screenshot of SEGA Lindbegh Menu
+### Screenshot of SEGA Lindbergh Menu
 ![image](https://github.com/user-attachments/assets/7e6459c0-0f46-44a4-9d38-af29afe73b84)
 
 ### Screenshot where games should be placed
